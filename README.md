@@ -7,24 +7,24 @@ The ADHC provides community, skills training, and collaboration towards the deve
 
 ## Table of Contents
 ### Outreach:
-Digitorium
-Podcast
-Website
-GitHub
-Discord
+1. Digitorium
+2. Podcast
+3. Website
+4. GitHub
+5. Discord
 
 ### Web Hosting
-Consulting and Planning
-Hosted Platforms
-OIT Workflows
+1. Consulting and Planning
+2. Hosted Platforms
+3. OIT Workflows
 
 ### Instruction
-Workshops
-DH Toolkit
-Course-embedded partnerships
+1. Workshops
+2. DH Toolkit
+3. Course-embedded partnerships
 
 ### Grants
-ADHC grant applications
-Grant support for hosted projects
-Grant writing support and partnership with the ASSIST office
+1. ADHC grant applications
+2. Grant support for hosted projects
+3. Grant writing support and partnership with the ASSIST office
 
