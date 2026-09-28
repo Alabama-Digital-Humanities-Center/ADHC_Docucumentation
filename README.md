@@ -5,16 +5,6 @@ Located within the University of Alabama Libraries, the Alabama Digital Humaniti
 The ADHC provides community, skills training, and collaboration towards the development of Digital Humanities projects. Our participation in individual projects includes the provision of local installations of Omeka S and Wordpress. We also help practitioners and students learn to use these tools to develop an understanding of the methods and frameworks of digital scholarship in the Humanities disciplines, and we support researchers in the development of projects using these technologies by providing site creation and the maintenance of our local installations.  
 
 
-## Quick Guide Links
-LibCal
-LigInsight
-LibGuides
-Scribe
-GitHub
-Jira
-Confluence
-Google Drive
-
 ## Table of Contents
 ### Outreach:
 Digitorium
