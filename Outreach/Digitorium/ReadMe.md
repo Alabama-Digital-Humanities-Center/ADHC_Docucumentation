@@ -14,3 +14,8 @@ Digitorium started as an annual conference in 2015. In 2020 (during the COVID-19
 * 2017: Undefined
 * 2016: Undefined
 * 2015: Undefined
+
+## Past Conference Chairs
+* 2015-2018: Emma Wilson
+* 2019-2022: Anne Ladyem McDivit
+* 2024, 2026: Sara Maurice Whitver
