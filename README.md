@@ -29,4 +29,4 @@ The ADHC provides community, skills training, and collaboration towards the deve
 3. Grant writing support and partnership with the ASSIST office
 
 ### Who is this for:
-We use this repository for public-facing operational and planning documentation to support day to day activities, staff onboarding and succession planning, and communicating with stakeholders. 
+We use this repository for public-facing operational and documentation to support day to day activities, staff onboarding and succession planning, and communicating with stakeholders. 
