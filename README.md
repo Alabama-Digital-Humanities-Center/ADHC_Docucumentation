@@ -10,8 +10,6 @@ The ADHC provides community, skills training, and collaboration towards the deve
 1. Digitorium Conference
 2. ADHC Talks Podcast
 3. ADHC Project Gallery
-4. ADHC GitHub
-5. Discord
 
 ### Web Hosting
 1. Consulting and Planning
