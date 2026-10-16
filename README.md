@@ -7,10 +7,10 @@ The ADHC provides community, skills training, and collaboration towards the deve
 
 ## Table of Contents
 ### Outreach:
-1. Digitorium
-2. Podcast
-3. Website
-4. GitHub
+1. Digitorium Conference
+2. ADHC Talks Podcast
+3. ADHC Project Gallery
+4. ADHC GitHub
 5. Discord
 
 ### Web Hosting
