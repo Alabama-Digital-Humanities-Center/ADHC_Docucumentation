@@ -1,7 +1,7 @@
 # Overview
 Digitorium is a digital humanities conference hosted by the University of Alabama Libraries. Typically held in September, Digitorium is an opportunity for researchers, scholars, students, and community partners, to talk about relevant topics in the field of Digital Humanities. Since 2020, Digitorium has been a fully hybrid conference with both in person and virtual participants from around the world.  Digitorium started as an annual conference in 2015. In 2020 (during the COVID-19 lockdown), it adopted a virtual format. It returned to campus in 2021 as a hybrid conference. In 2024, it became a biennial conference. 
 
-##Past Conference Themes
+## Past Conference Themes
 * 2026: Preserve
 * 2024: Engage
 * 2022: The Way We Learn
