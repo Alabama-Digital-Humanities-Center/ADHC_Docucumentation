@@ -5,8 +5,8 @@ This folder contains Quick Guides created using Scribe for operational functions
     * Event: Group Instruction
     * Event: Digitorium
 * LibInsight
-    *Enter: Group Instruction Statistics
-    *Enter: Research Consultation Statistics
+    * Enter: Group Instruction Statistics
+    * Enter: Research Consultation Statistics
 * LibGuides
 * Confluence
 * Google Drive (ADHC)
